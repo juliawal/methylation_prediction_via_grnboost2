@@ -1,8 +1,8 @@
 Methylation Prediction via GRNBoost2:
-> dowload methylation_prediction_via_grnboost2
-> unzip hippie
-> install gseapy and mygene
-> run the following files
+ download methylation_prediction_via_grnboost2
+ unzip hippie
+ install gseapy and mygene
+ run the following files
 
 preparing_data.ipynb: \
 • in: matrix_methyla4on.tsv (cpgs), matrix_rna.tsv (genes) \
